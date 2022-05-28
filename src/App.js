@@ -2,7 +2,7 @@ import "./App.css";
 import { Navbar, Brand, Cta } from "./components";
 import {
   Blog,
-  Feature,
+  Features,
   Footer,
   Header,
   Posibility,
@@ -18,7 +18,7 @@ function App() {
       </div>
       <Brand />
       <WhatGpt3 />
-      <Feature />
+      <Features />
       <Posibility />
       <Cta />
       <Blog />
